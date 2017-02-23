@@ -1,0 +1,14 @@
+The data contains 110 accounts
+99 accounts reconcile ( 90.0 %)
+
+11 accounts do not reconcile ( 10.0 %)
+There are 5 accounts in the GL and not in the TB. ( 45.45 % of unreconciled accounts)
+There are 6 accounts with journals missing ( 54.55 % of unreconciled accounts)
+The net of all the differences is 0.0
+
+TB opening balance is unbalanced by -2486.28
+TB closing balance is unbalanced by 1326.45
+***If these are not 0 then the TB is certainly wrong and receiving a 
+balanced TB is the first step to reconciling all accounts***
+
+There are 3 unreconciled accounts with equal and opposite differences
